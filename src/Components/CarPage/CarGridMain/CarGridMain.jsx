@@ -1,6 +1,6 @@
 import "./carGridMain.scss";
 import Spinner from "../../MainPage/Spinner/Spinner";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import RibbonFlag from "../RibbonFlag/RibbonFlag";
 import CarRating from "../CarRating/CarRating";

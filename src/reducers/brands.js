@@ -329,8 +329,7 @@ const brands = (state = initialState, action) => {
       };
     case "ON_CAR_EDIT":
       return {
-        ...state,
-        ...(state = action.payload),
+        ...action.payload,
       };
     case "ON_SET_CAR_REVIEWS":
       return {

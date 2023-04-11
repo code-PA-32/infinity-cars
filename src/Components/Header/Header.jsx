@@ -48,9 +48,9 @@ const Header = () => {
       const user = JSON.parse(localStorage.getItem("user"));
       dispatch(currentUserLogged(user));
       dispatch(setLogged(true));
-      dispatch(fetchUsers(request)); 
+      dispatch(fetchUsers(request));
     }
-  }, [request]);
+  }, [request, dispatch]);
 
   const onLogOutUser = () => {
     localStorage.removeItem("user");
