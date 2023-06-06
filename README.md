@@ -4,9 +4,7 @@
 
 ${{\Huge{\textsf{Welcome\ to\ Autohunt.\ \ \ \ Website\ for\ selling\ and\ buying\ cars \}}}}\$ 
 
-### 🔩 &nbsp; ${\\textsf{ Some\ tools\ I\ have\ used }}$  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="30" height="30" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="30" height="30" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30" height="30" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="scss" width="30" height="30" />&nbsp;  <img src="https://user-images.githubusercontent.com/112705866/212576928-1c3ba62d-c95c-4338-8311-e2376bf4176c.svg"  alt="github" />&nbsp; ![miu](https://user-images.githubusercontent.com/112705866/218529490-7b1709f2-4fc8-4a1e-a5b5-6223613c9607.svg)
-
+## A new version is [here](https://github.com/OleksandrVernichenko/autohunt)
 
 
 
