@@ -63,7 +63,7 @@ const Footer = () => {
         </ul>
       </div>
       <div className="footer-bottom">
-        2023 Autohunt. Developed by Oleksandr Vernichenko
+        2 0 2 3 Autohunt. Developed by Oleksandr Vernichenko
       </div>
     </footer>
   );
