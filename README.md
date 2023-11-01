@@ -8,7 +8,7 @@ ${{\Huge{\textsf{Welcome\ to\ Autohunt.\ \ \ \ Website\ for\ selling\ and\ buyin
 
 
 
-###  💻 &nbsp; ${\\textsf{ Figma Layout of this project }}$
+###  💻 &nbsp;  Figma Layout of this project 
 
 [![gmail-svgrepo-com](https://user-images.githubusercontent.com/112705866/218335478-a6ec901d-596c-400d-8161-0e0ef15570f2.svg)](https://www.figma.com/file/zH2QnhOsIGBpdrrdj3gA92/AutoHunt-%7C-Car-Selling-Website-(Community)?node-id=2%3A26&t=HfYKRvR9E5lW1Ogf-0)
 
